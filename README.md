@@ -5,7 +5,7 @@ Python application that uses image processing techniques to calculate the APM (a
 <img width="171" alt="figure3" src="https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure3.png">
 
 ## Demonstration
-<video src="https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/video.mp4"></video>
+<video src="https://github.com/user-attachments/assets/2c17e874-5d29-4907-b127-c10269aa430d"></video>
 ![figure1](https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure1.png)
 ![figure2](https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure2.png)
 
