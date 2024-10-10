@@ -1,13 +1,13 @@
-# Zone Battle Real-Time APM
+# Modern Tetris Game Analyzer (Zone Battle Real-Time APM)
 
 Python application that uses image processing techniques to calculate the APM (attack per minute) in a recorded or real-time match of Zone Battle in Tetris® Effect: Connected. 
 
-<img width="171" alt="figure3" src="https://github.com/user-attachments/assets/bd8c451e-d40a-450a-b744-400c212b0c8d">
+<img width="171" alt="figure3" src="https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure3.png">
 
 ## Demonstration
-<video src="https://github.com/user-attachments/assets/b08b3a65-1753-4c24-9639-9019e0c2cc71"></video>
-![figure1](https://github.com/user-attachments/assets/d7f09caf-b6cb-4759-b69c-ace1f40fdaf1)
-![figure2](https://github.com/user-attachments/assets/3505fd8d-7ea2-43da-9666-01857763e29a)
+<video src="https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/video.mp4"></video>
+![figure1](https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure1.png)
+![figure2](https://github.com/chrisleesbu/Modern-Tetris-Game-Analyzer/blob/main/demo/figure2.png)
 
 ## REQUISITES
 For best results, the game needs to meet the following conditions:
